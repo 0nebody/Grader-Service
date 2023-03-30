@@ -142,15 +142,15 @@ entries:
     - https://github.com/0nebody/Grader-Service/releases/download/grader-service-helm-nightly-0.1.74-38602b2c/grader-service-0.1.74-38602b2c.tgz
     version: 0.1.74-38602b2c
   - apiVersion: v2
-    appVersion: d4ce7f12
-    created: "2023-03-10T02:33:55.617655576Z"
+    appVersion: 38602b2c
+    created: "2023-03-30T02:22:31.640161982Z"
     description: A Helm chart for Kubernetes
-    digest: a7297f3e12791bb7ca7b62d73d331db9dddc16db85b2a28d78d0d36a9499cc29
+    digest: a8c1a6fe7dd042ffb72d34f72c971f366d19636d425463fb09e90f7fb630dcbd
     name: grader-service
     type: application
     urls:
-    - https://github.com/0nebody/Grader-Service/releases/download/grader-service-helm-nightly-0.1.65-d4ce7f12/grader-service-0.1.65-d4ce7f12.tgz
-    version: 0.1.65-d4ce7f12
+    - https://github.com/0nebody/Grader-Service/releases/download/grader-service-helm-nightly-0.1.74-38602b2c/grader-service-0.1.74-38602b2c.tgz
+    version: 0.1.74-38602b2c
   - apiVersion: v2
     appVersion: d4ce7f12
     created: "2023-03-04T02:29:12.900120418Z"
@@ -272,6 +272,16 @@ entries:
     - https://github.com/0nebody/Grader-Service/releases/download/grader-service-helm-nightly-0.1.65-d4ce7f12/grader-service-0.1.65-d4ce7f12.tgz
     version: 0.1.65-d4ce7f12
   - apiVersion: v2
+    appVersion: d4ce7f12
+    created: "2023-03-10T02:33:55.617655576Z"
+    description: A Helm chart for Kubernetes
+    digest: a7297f3e12791bb7ca7b62d73d331db9dddc16db85b2a28d78d0d36a9499cc29
+    name: grader-service
+    type: application
+    urls:
+    - https://github.com/0nebody/Grader-Service/releases/download/grader-service-helm-nightly-0.1.65-d4ce7f12/grader-service-0.1.65-d4ce7f12.tgz
+    version: 0.1.65-d4ce7f12
+  - apiVersion: v2
     appVersion: 0.1.2
     created: "2022-06-15T13:33:48.197500169Z"
     description: A Helm chart for Kubernetes
@@ -301,4 +311,4 @@ entries:
     urls:
     - https://github.com/TU-Wien-dataLAB/Grader-Service/releases/download/grader-service-0.1.0/grader-service-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-29T02:28:29.992051594Z"
+generated: "2023-03-30T02:22:31.640533487Z"
